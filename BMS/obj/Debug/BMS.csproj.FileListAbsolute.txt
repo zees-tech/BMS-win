@@ -1,0 +1,139 @@
+c:\users\india\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\BMS.exe.config
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Company.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Company_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\CustomerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\CustomerDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Employee.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\JobWorkDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\LedgerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\ServicerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\StockDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Supplier.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\TaxDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\tempdb.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Tranx.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.exe
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.pdb
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Cash_Payment.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.credit_note.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Customer.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Debit_Note.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.GR_Challan.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Invoice.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Job_Challan_Recieve.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Ledger.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Main.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Object_List.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.payment.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.PreMain.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Stock.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.supplier.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.exe
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.pdb
+C:\Users\India\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Form1.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.exe.config
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.exe
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.pdb
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Company.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Company_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\LedgerDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\StockDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.exe
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.pdb
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.csprojResolveAssemblyReference.cache
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.Cache
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\LedgerDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\StockDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Employee_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\JobWorkDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\LedgerDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\ServicerDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\StockDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Supplier_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\TaxDB_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\tempdb_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\Tranx_log.ldf
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\obj\Debug\bms1.purchase.resources
+C:\Users\India\documents\visual studio 2015\Projects\BMS\BMS\obj\Debug\bms1.Purchase_challan.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.exe.manifest
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\BMS.application
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.TrustInfo.xml
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.exe.manifest
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.application
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.AdExistBal.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.AdExitJob.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.AdExitStock.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.AdUser.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Authenticate.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.ChangePwd.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Company.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Cash_Payment.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Challan_to_bill.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Login.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Ledger.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Main.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Object_List.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.payment.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.PreMain.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Stock.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.BillF.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.CategoryList.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.ReturnF.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\TransDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\bin\Debug\DataBase\TransDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.JobBillF.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.JRecievingF.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.Transaction.GSTpaymetF.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.bankdt.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\BMS\BMS\obj\Debug\BMS.contactf.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\Company.mdf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\LedgerDB.mdf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\LedgerDB_log.ldf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\StockDB.mdf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\TransDB.mdf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\TransDB_log.ldf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\BMS.exe.config
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\BMS.exe.manifest
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\BMS.application
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\BMS.exe
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\BMS.pdb
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.AdExistBal.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.AdExitJob.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.AdExitStock.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.AdUser.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Authenticate.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.bankdt.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.contactf.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Transaction.GSTpaymetF.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.JRecievingF.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.JobBillF.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.BillF.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.CategoryList.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.ChangePwd.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Company.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.ReturnF.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Cash_Payment.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Challan_to_bill.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Login.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Ledger.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Main.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Object_List.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.payment.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.PreMain.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.Stock.resources
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.TrustInfo.xml
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.exe.manifest
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.application
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.exe
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\obj\Debug\BMS.pdb
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\Company_log.ldf
+C:\Users\zeens\OneDrive\Documents\BMS\BMS\bin\Debug\DataBase\StockDB_log.ldf

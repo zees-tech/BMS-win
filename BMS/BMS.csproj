@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CF81E1F7-BE95-46A5-B8C5-00FA531DFC65}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BMS</RootNamespace>
+    <AssemblyName>BMS</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\zeens\OneDrive\Documents\Visual Studio 2022\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>728CACF1A750A4FA8D4501330D829BB17F953332</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BMS_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdExistBal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdExistBal.Designer.cs">
+      <DependentUpon>AdExistBal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdExitJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdExitJob.Designer.cs">
+      <DependentUpon>AdExitJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdExitStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdExitStock.Designer.cs">
+      <DependentUpon>AdExitStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdUser.Designer.cs">
+      <DependentUpon>AdUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authenticate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authenticate.Designer.cs">
+      <DependentUpon>Authenticate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bankdt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bankdt.Designer.cs">
+      <DependentUpon>bankdt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contactf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contactf.Designer.cs">
+      <DependentUpon>contactf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\GSTpaymetF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\GSTpaymetF.Designer.cs">
+      <DependentUpon>GSTpaymetF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\JRecievingF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\JRecievingF.Designer.cs">
+      <DependentUpon>JRecievingF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\BillF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\BillF.Designer.cs">
+      <DependentUpon>BillF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Calculator.cs" />
+    <Compile Include="CategoryList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CategoryList.Designer.cs">
+      <DependentUpon>CategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Company.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Company.Designer.cs">
+      <DependentUpon>Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fall.cs" />
+    <Compile Include="ChangePwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangePwd.Designer.cs">
+      <DependentUpon>ChangePwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\JobBillF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\JobBillF.Designer.cs">
+      <DependentUpon>JobBillF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\ReturnF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\ReturnF.Designer.cs">
+      <DependentUpon>ReturnF.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\Cash_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Cash_Payment.Designer.cs">
+      <DependentUpon>Cash_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Constant_And_Variable.cs" />
+    <Compile Include="Transaction\Challan_to_bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\Challan_to_bill.Designer.cs">
+      <DependentUpon>Challan_to_bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ledger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ledger.Designer.cs">
+      <DependentUpon>Ledger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ledger_Process.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NumToWord.cs" />
+    <Compile Include="Object_List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Object_List.Designer.cs">
+      <DependentUpon>Object_List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transaction\payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaction\payment.Designer.cs">
+      <DependentUpon>payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PreMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreMain.designer.cs">
+      <DependentUpon>PreMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock.Designer.cs">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdExistBal.resx">
+      <DependentUpon>AdExistBal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdExitJob.resx">
+      <DependentUpon>AdExitJob.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdExitStock.resx">
+      <DependentUpon>AdExitStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdUser.resx">
+      <DependentUpon>AdUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authenticate.resx">
+      <DependentUpon>Authenticate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bankdt.resx">
+      <DependentUpon>bankdt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contactf.resx">
+      <DependentUpon>contactf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\GSTpaymetF.resx">
+      <DependentUpon>GSTpaymetF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\JRecievingF.resx">
+      <DependentUpon>JRecievingF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\JobBillF.resx">
+      <DependentUpon>JobBillF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\BillF.resx">
+      <DependentUpon>BillF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryList.resx">
+      <DependentUpon>CategoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangePwd.resx">
+      <DependentUpon>ChangePwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Company.resx">
+      <DependentUpon>Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\ReturnF.resx">
+      <DependentUpon>ReturnF.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Cash_Payment.resx">
+      <DependentUpon>Cash_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\Challan_to_bill.resx">
+      <DependentUpon>Challan_to_bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ledger.resx">
+      <DependentUpon>Ledger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Object_List.resx">
+      <DependentUpon>Object_List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaction\payment.resx">
+      <DependentUpon>payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PreMain.resx">
+      <DependentUpon>PreMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Stock.resx">
+      <DependentUpon>Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BMS_TemporaryKey.pfx" />
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="XMLSchema1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SqlServer.SqlLocalDB.11.1">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2012 Express LocalDB</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataBase\Company.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataBase\Company_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Company.mdf</DependentUpon>
+    </Content>
+    <Content Include="DataBase\LedgerDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataBase\LedgerDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>LedgerDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="DataBase\StockDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataBase\StockDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>StockDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="DataBase\TransDB.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataBase\TransDB_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>TransDB.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

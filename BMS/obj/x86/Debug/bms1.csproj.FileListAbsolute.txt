@@ -1,0 +1,117 @@
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.Form1.resources
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.Main.resources
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.PreMain.resources
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.Properties.Resources.resources
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.csproj.GenerateResource.Cache
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\bin\Debug\bms1.exe
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\bin\Debug\bms1.pdb
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.exe
+c:\users\india\documents\visual studio 2010\Projects\bms1\bms1\obj\x86\Debug\bms1.pdb
+C:\Users\India\documents\visual studio 2010\Projects\bms1\bms1\bin\Debug\bms1.exe.config
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.csprojResolveAssemblyReference.cache
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Form1.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Ledger.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Main.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.PreMain.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Stock.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.csproj.GenerateResource.Cache
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Object_List.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Pre_Ledger.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Cash_Payment.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.payment.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.credit_note.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.invoice.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Debit_Note.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.GR_Challan.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Activate.resources
+H:\bms1\bms1\bin\Debug\bms1.exe.config
+H:\bms1\bms1\obj\x86\Debug\bms1.exe
+H:\bms1\bms1\obj\x86\Debug\bms1.pdb
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.csprojResolveAssemblyReference.cache
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Activate.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Cash_Payment.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.credit_note.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Debit_Note.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Form1.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.GR_Challan.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Invoice.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Ledger.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Main.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Object_List.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.payment.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.PreMain.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Pre_Ledger.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Stock.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.csproj.GenerateResource.Cache
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Company.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Company_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\CustomerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\CustomerDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Employee.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Employee_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\JobWorkDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\JobWorkDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\LedgerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\LedgerDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\ServicerDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\ServicerDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\StockDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\StockDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Supplier.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Supplier_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\TaxDB.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\TaxDB_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\tempdb.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\tempdb_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Tranx.mdf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Tranx_log.ldf
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe.config
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe.manifest
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.application
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.pdb
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\BMS.Properties.Resources.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.TrustInfo.xml
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.exe.manifest
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.application
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.exe
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.pdb
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Customer.resources
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.supplier.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe.config
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.exe
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.pdb
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Customer.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Job_Challan_Recieve.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\BMS.Properties.Resources.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.supplier.resources
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Company.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Company_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\CustomerDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\CustomerDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Employee.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Employee_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\JobWorkDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\JobWorkDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\LedgerDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\LedgerDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\ServicerDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\ServicerDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\StockDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\StockDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Supplier.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Supplier_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\TaxDB.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\TaxDB_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\tempdb.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\tempdb_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Tranx.mdf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\DataBase\Tranx_log.ldf
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe.manifest
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.application
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.exe
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\bin\Debug\Business Management System.pdb
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.TrustInfo.xml
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.exe.manifest
+C:\Users\Ansari-PC\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\Business Management System.application
+C:\Users\India\Documents\Visual Studio 2015\Projects\bms1\bms1\obj\x86\Debug\bms1.Job_Challan_Recieve.resources
